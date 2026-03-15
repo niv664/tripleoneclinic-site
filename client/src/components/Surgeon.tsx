@@ -19,11 +19,11 @@ export default function Surgeon() {
       credentials: [
         "Board Certified Plastic Surgeon",
         "Specialist in Rhinoplasty",
-        "Facial Contouring Expert",
+        "Face Reshaping Specialist",
         "International Patient Care Specialist"
       ],
       bio1: "With over 15 years of experience specializing in facial harmony and nasal refinement, our surgeon has performed over 2,000 procedures for international patients from around the world.",
-      bio2: "Triple One Clinic focuses on precision facial surgery with a philosophy based on European facial proportions adapted for Asian facial anatomy. Specialized in rhinoplasty, eyelid surgery, and facial contouring.",
+      bio2: "Triple One Clinic focuses on precision facial harmony with a philosophy based on European facial proportions adapted for Asian facial anatomy. Specialized in rhinoplasty, eyelid surgery, and our signature face reshaping program with Botox and filler.",
       cta: "Schedule Consultation"
     },
     th: {
@@ -31,11 +31,11 @@ export default function Surgeon() {
       credentials: [
         "ศัลยแพทย์พลาสติกที่ได้รับการรับรอง",
         "ผู้เชี่ยวชาญด้านศัลยกรรมจมูก",
-        "ผู้เชี่ยวชาญด้านการปรับรูปหน้า",
+        "ผู้เชี่ยวชาญด้านการปรับรูปหน้า (Botox & Filler)",
         "ผู้เชี่ยวชาญด้านการดูแลผู้ป่วยต่างประเทศ"
       ],
       bio1: "ด้วยประสบการณ์กว่า 15 ปีในการเชี่ยวชาญด้านความกลมกลืนของใบหน้าและการปรับจมูก ศัลยแพทย์ของเราได้ทำการผ่าตัดกว่า 2,000 ครั้งสำหรับผู้ป่วยต่างประเทศจากทั่วโลก",
-      bio2: "Triple One Clinic มุ่งเน้นไปที่ศัลยกรรมใบหน้าที่มีความแม่นยำโดยมีปรัชญาที่อิงตามสัดส่วนใบหน้าแบบยุโรปที่ปรับให้เข้ากับโครงสร้างใบหน้าแบบเอเชีย เชี่ยวชาญด้านศัลยกรรมจมูก ศัลยกรรมเปลี่ยนตา และการปรับรูปหน้า",
+      bio2: "Triple One Clinic มุ่งเน้นไปที่ความกลมกลืนของใบหน้าที่มีความแม่นยำโดยมีปรัชญาที่อิงตามสัดส่วนใบหน้าแบบยุโรปที่ปรับให้เข้ากับโครงสร้างใบหน้าแบบเอเชีย เชี่ยวชาญด้านศัลยกรรมจมูก ศัลยกรรมเปลี่ยนตา และโปรแกรมปรับรูปหน้าด้วย Botox และ Filler",
       cta: "จองการปรึกษา"
     },
     zh: {
@@ -43,11 +43,11 @@ export default function Surgeon() {
       credentials: [
         "认证整形外科医生",
         "隆鼻手术专家",
-        "面部轮廓塑形专家",
+        "面部塑形专家 (肉毒杆菌和填充剂)",
         "国际患者护理专家"
       ],
       bio1: "拥有超过15年的面部和谐与鼻部精致化专业经验，我们的医生为来自世界各地的国际患者进行了超过2000例手术。",
-      bio2: "Triple One Clinic专注于精准面部手术，其理念基于适应亚洲面部解剖学的欧洲面部比例。专门从事隆鼻手术、眼睑手术和面部轮廓塑形。",
+      bio2: "Triple One Clinic专注于精准面部和谐，其理念基于适应亚洲面部解剖学的欧洲面部比例。专门从事隆鼻手术、眼睑手术以及肉毒杆菌和填充剂的面部塑形计划。",
       cta: "预约咨询"
     }
   };

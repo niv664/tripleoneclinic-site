@@ -17,17 +17,17 @@ export default function Hero() {
   const content = {
     en: {
       title: "European Facial Harmony",
-      description: "Advanced facial surgery in Bangkok for international patients. Precision-focused rhinoplasty and facial contouring based on European aesthetic principles adapted for Asian facial anatomy.",
+      description: "Advanced facial harmony in Bangkok for international patients. Precision-focused rhinoplasty and face reshaping program with Botox and filler based on European aesthetic principles.",
       cta: "Book Consultation"
     },
     th: {
       title: "ความกลมกลืนของใบหน้าแบบยุโรป",
-      description: "ศัลยกรรมใบหน้าขั้นสูงในกรุงเทพฯ สำหรับผู้ป่วยต่างประเทศ ศัลยกรรมจมูกที่เน้นความแม่นยำและการปรับรูปหน้าตามหลักการสุนทรีย์แบบยุโรปที่ปรับให้เข้ากับโครงสร้างใบหน้าแบบเอเชีย",
+      description: "ความกลมกลืนของใบหน้าขั้นสูงในกรุงเทพฯ สำหรับผู้ป่วยต่างประเทศ ศัลยกรรมจมูกที่เน้นความแม่นยำและโปรแกรมปรับรูปหน้าด้วย Botox และ Filler ตามหลักการสุนทรีย์แบบยุโรป",
       cta: "จองการปรึกษา"
     },
     zh: {
       title: "欧洲面部和谐",
-      description: "曼谷国际患者面部手术。精准隆鼻和面部轮廓塑形，基于适应亚洲面部解剖学的欧洲美学原则。",
+      description: "曼谷国际患者面部和谐。精准隆鼻以及基于欧洲美学原则的肉毒杆菌和填充剂面部塑形计划。",
       cta: "预约咨询"
     }
   };

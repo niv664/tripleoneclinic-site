@@ -50,12 +50,12 @@ const procedures: Procedure[] = [
     icon: 'https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/procedure-icon-lips-cJFGA3ghwEbErDD6cQrk9V.webp',
   },
   {
-    titleEn: 'Jawline Contouring',
-    titleTh: 'ศัลยกรรมปรับเหงือก',
-    titleZh: '下颌轮廓',
-    descEn: 'Defined facial structure',
-    descTh: 'โครงสร้างใบหน้าที่ชัดเจน',
-    descZh: '明确的面部结构',
+    titleEn: 'Face Reshaping Program',
+    titleTh: 'โปรแกรมปรับรูปหน้า (Botox & Filler)',
+    titleZh: '面部塑形计划 (肉毒杆菌和填充剂)',
+    descEn: 'Non-surgical face reshaping with Botox and Filler',
+    descTh: 'ปรับรูปหน้าโดยไม่ต้องผ่าตัดด้วย Botox และ Filler',
+    descZh: '使用肉毒杆菌和填充剂进行非手术面部塑形',
     icon: 'https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/procedure-icon-rhinoplasty-JzfKEzmj92kMcn5EnXFc8B.webp',
   },
 ];
