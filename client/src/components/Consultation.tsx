@@ -16,21 +16,21 @@ export default function Consultation() {
   const content = {
     en: {
       title: "Book Your Consultation",
-      description: "Experience European facial harmony in Bangkok. Our expert surgeon specializes in rhinoplasty and our signature face reshaping program with Botox and filler.",
+      description: "Experience precision facial harmony in Bangkok. Our expert doctor specializes in rhinoplasty and our signature face reshaping program with Botox and filler.",
       scheduleBtn: "Schedule Now",
       whatsappBtn: "WhatsApp Consultation",
       info: "Available for online consultations 24/7. Response within 2 hours during business hours."
     },
     th: {
       title: "จองการปรึกษาของคุณ",
-      description: "สัมผัสประสบการณ์ความกลมกลืนของใบหน้าแบบยุโรปในกรุงเทพฯ ศัลยแพทย์ผู้เชี่ยวชาญของเราเชี่ยวชาญด้านศัลยกรรมจมูกและโปรแกรมปรับรูปหน้าด้วย Botox และ Filler",
+      description: "สัมผัสประสบการณ์ความกลมกลืนของใบหน้าที่มีความแม่นยำในกรุงเทพฯ คุณหมอผู้เชี่ยวชาญของเราเชี่ยวชาญด้านศัลยกรรมจมูกและโปรแกรมปรับรูปหน้าด้วย Botox และ Filler",
       scheduleBtn: "จองเลย",
       whatsappBtn: "ปรึกษาผ่าน WhatsApp",
       info: "พร้อมให้ปรึกษาออนไลน์ 24/7 ตอบกลับภายใน 2 ชั่วโมงในเวลาทำการ"
     },
     zh: {
       title: "预约咨询",
-      description: "在曼谷体验欧洲面部和谐。我们的专家医生专门从事隆鼻手术以及肉毒杆菌和填充剂的面部塑形计划。",
+      description: "在曼谷体验精准面部和谐。我们的专家医生专门从事隆鼻手术以及肉毒杆菌和填充剂的面部塑形计划。",
       scheduleBtn: "立即预约",
       whatsappBtn: "WhatsApp咨询",
       info: "24/7在线咨询。工作时间内2小时内回复。"

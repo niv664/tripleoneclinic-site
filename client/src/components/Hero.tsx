@@ -17,19 +17,19 @@ export default function Hero() {
   const content = {
     en: {
       title: "Facial Harmony. Precision Aesthetics.",
-      subtitle: "Advanced facial aesthetics in Bangkok for international patients.",
+      subtitle: "Advanced facial aesthetics in Bangkok for Thai and international patients.",
       description: "Precision rhinoplasty and facial refinement with Botox and fillers, designed to create balanced, natural-looking results.",
       cta: "Book Consultation"
     },
     th: {
       title: "ความกลมกลืนของใบหน้า สุนทรียศาสตร์ที่แม่นยำ",
-      subtitle: "สุนทรียศาสตร์ใบหน้าขั้นสูงในกรุงเทพฯ สำหรับผู้ป่วยต่างประเทศ",
+      subtitle: "สุนทรียศาสตร์ใบหน้าขั้นสูงในกรุงเทพฯ สำหรับผู้ป่วยชาวไทยและต่างชาติ",
       description: "การทำศัลยกรรมจมูกที่แม่นยำและการปรับรูปหน้าด้วยโบท็อกซ์และฟิลเลอร์ ออกแบบมาเพื่อสร้างผลลัพธ์ที่สมดุลและดูเป็นธรรมชาติ",
       cta: "จองการปรึกษา"
     },
     zh: {
       title: "面部和谐。精准美学。",
-      subtitle: "曼谷面向国际患者的高级面部美学。",
+      subtitle: "曼谷面向泰国及国际患者的高级面部美学。",
       description: "精准隆鼻以及使用肉毒杆菌和填充剂的面部精雕，旨在创造平衡、自然的美容效果。",
       cta: "预约咨询"
     }
