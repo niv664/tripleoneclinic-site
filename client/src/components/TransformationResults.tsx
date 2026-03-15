@@ -31,7 +31,7 @@ const results: ResultItem[] = [
     descEn: "European nasal refinement",
     descTh: "การปรับจมูกแบบยุโรป",
     descZh: "欧洲鼻部精致化",
-    image: "https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/rhinoplasty-before-after-TzMuydabB4xgvAZBaBuQbL.webp",
+    image: "https://files.manuscdn.com/user_upload_by_module/session_file/310419663032047834/WwjYiVPEaZTsYvHW.png",
     alt: "Rhinoplasty Transformation"
   },
   {
@@ -42,7 +42,7 @@ const results: ResultItem[] = [
     descEn: "Natural eye enhancement",
     descTh: "การปรับปรุงตาอย่างธรรมชาติ",
     descZh: "自然眼部增强",
-    image: "https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/eyelid-before-after-kpqPusv9o4nAaxGWzTiPW6.webp",
+    image: "https://files.manuscdn.com/user_upload_by_module/session_file/310419663032047834/qJWfRuqjMfwXQTud.png",
     alt: "Eyelid Surgery Transformation"
   },
   {
@@ -53,7 +53,7 @@ const results: ResultItem[] = [
     descEn: "Harmonious lip shaping",
     descTh: "การปรับรูปปากอย่างกลมกลืน",
     descZh: "和谐的唇部塑形",
-    image: "https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/lip-before-after-oEYpDNqa8JeKAzrUQbWuP3.webp",
+    image: "https://files.manuscdn.com/user_upload_by_module/session_file/310419663032047834/atydVpumLSmHJwws.png",
     alt: "Lip Correction Transformation"
   },
   {
