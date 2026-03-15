@@ -29,7 +29,7 @@ const procedures: Procedure[] = [
     descEn: 'European nasal bridge refinement',
     descTh: 'การปรับจมูกแบบยุโรป',
     descZh: '欧洲鼻部精致化',
-    icon: 'https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/procedure-icon-rhinoplasty-JzfKEzmj92kMcn5EnXFc8B.webp',
+    icon: 'https://files.manuscdn.com/user_upload_by_module/session_file/310419663032047834/urQgrSRmVcuCHcQH.png',
   },
   {
     titleEn: 'Eyelid Surgery',
@@ -38,7 +38,7 @@ const procedures: Procedure[] = [
     descEn: 'Upper and lower eyelid surgery',
     descTh: 'ศัลยกรรมเปลี่ยนตาบนและล่าง',
     descZh: '上下眼睑手术',
-    icon: 'https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/procedure-icon-eyelid-jgQL5oSKwxZSTTSaK7u9BT.webp',
+    icon: 'https://files.manuscdn.com/user_upload_by_module/session_file/310419663032047834/layIPPPYDioXKwCl.png',
   },
   {
     titleEn: 'Lip Correction',
@@ -47,7 +47,7 @@ const procedures: Procedure[] = [
     descEn: 'Natural lip shaping procedures',
     descTh: 'ขั้นตอนการปรับรูปปากอย่างธรรมชาติ',
     descZh: '自然唇部塑形程序',
-    icon: 'https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/procedure-icon-lips-cJFGA3ghwEbErDD6cQrk9V.webp',
+    icon: 'https://files.manuscdn.com/user_upload_by_module/session_file/310419663032047834/jCFJFpxNqwKlhARS.png',
   },
   {
     titleEn: 'Face Reshaping Program',
@@ -56,7 +56,7 @@ const procedures: Procedure[] = [
     descEn: 'Non-surgical face reshaping with Botox and Filler',
     descTh: 'ปรับรูปหน้าโดยไม่ต้องผ่าตัดด้วย Botox และ Filler',
     descZh: '使用肉毒杆菌和填充剂进行非手术面部塑形',
-    icon: 'https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/procedure-icon-rhinoplasty-JzfKEzmj92kMcn5EnXFc8B.webp',
+    icon: 'https://files.manuscdn.com/user_upload_by_module/session_file/310419663032047834/qoobpmzAgkrtZvCL.png',
   },
 ];
 
@@ -107,7 +107,7 @@ export default function Procedures() {
                 <img
                   src={procedure.icon}
                   alt={getTitle(procedure)}
-                  className="w-16 h-16 object-contain"
+                  className="w-24 h-24 object-contain"
                 />
               </div>
               <h3 className="text-foreground mb-3">{getTitle(procedure)}</h3>
