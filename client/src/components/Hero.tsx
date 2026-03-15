@@ -16,18 +16,21 @@ export default function Hero() {
 
   const content = {
     en: {
-      title: "European Facial Harmony",
-      description: "Advanced facial harmony in Bangkok for international patients. Precision-focused rhinoplasty and face reshaping program with Botox and filler based on European aesthetic principles.",
+      title: "Facial Harmony. Precision Aesthetics.",
+      subtitle: "Advanced facial aesthetics in Bangkok for international patients.",
+      description: "Precision rhinoplasty and facial refinement with Botox and fillers, designed to create balanced, natural-looking results.",
       cta: "Book Consultation"
     },
     th: {
-      title: "ความกลมกลืนของใบหน้าแบบยุโรป",
-      description: "ความกลมกลืนของใบหน้าขั้นสูงในกรุงเทพฯ สำหรับผู้ป่วยต่างประเทศ ศัลยกรรมจมูกที่เน้นความแม่นยำและโปรแกรมปรับรูปหน้าด้วย Botox และ Filler ตามหลักการสุนทรีย์แบบยุโรป",
+      title: "ความกลมกลืนของใบหน้า สุนทรียศาสตร์ที่แม่นยำ",
+      subtitle: "สุนทรียศาสตร์ใบหน้าขั้นสูงในกรุงเทพฯ สำหรับผู้ป่วยต่างประเทศ",
+      description: "การทำศัลยกรรมจมูกที่แม่นยำและการปรับรูปหน้าด้วยโบท็อกซ์และฟิลเลอร์ ออกแบบมาเพื่อสร้างผลลัพธ์ที่สมดุลและดูเป็นธรรมชาติ",
       cta: "จองการปรึกษา"
     },
     zh: {
-      title: "欧洲面部和谐",
-      description: "曼谷国际患者面部和谐。精准隆鼻以及基于欧洲美学原则的肉毒杆菌和填充剂面部塑形计划。",
+      title: "面部和谐。精准美学。",
+      subtitle: "曼谷面向国际患者的高级面部美学。",
+      description: "精准隆鼻以及使用肉毒杆菌和填充剂的面部精雕，旨在创造平衡、自然的美容效果。",
       cta: "预约咨询"
     }
   };
@@ -50,11 +53,14 @@ export default function Hero() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-20 items-center">
           {/* Left Content */}
           <div className="space-y-8">
-            <div>
-              <h1 className="text-foreground mb-6">
+            <div className="space-y-4">
+              <h1 className="text-foreground leading-tight">
                 {currentContent.title}
               </h1>
-              <div className="accent-bar mb-8"></div>
+              <p className="text-xl font-medium text-foreground/90">
+                {currentContent.subtitle}
+              </p>
+              <div className="accent-bar"></div>
             </div>
 
             <p className="text-lg text-foreground/80 max-w-md">
