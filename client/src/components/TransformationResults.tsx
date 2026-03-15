@@ -64,7 +64,7 @@ const results: ResultItem[] = [
     descEn: "Non-surgical face reshaping with Botox and Filler",
     descTh: "ปรับรูปหน้าโดยไม่ต้องผ่าตัดด้วย Botox และ Filler",
     descZh: "使用肉毒杆菌和填充剂进行非手术面部塑形",
-    image: "https://d2xsxph8kpxj0f.cloudfront.net/310419663031854316/Jx2RQ3hkgjwjAzenjUPkpP/jawline-before-after-WrjUEHSC9bKYoKai9KEfN7.webp",
+    image: "https://files.manuscdn.com/user_upload_by_module/session_file/310419663032047834/SUWxhryjvWzgxctK.png",
     alt: "Face Reshaping Transformation"
   }
 ];
